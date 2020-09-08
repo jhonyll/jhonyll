@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Artigos
 
-- [E no comeco havia o Inicio](posts/principio.md)
+- [E no comeco havia o Inicio](./posts/principio.md)
