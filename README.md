@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🤔 I’m looking for help with knowledge.
+
 <!--
 **jhonyskywalker/jhonyskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Artigos
 
-- [E no comeco havia o Inicio](https://github.com/jhonyskywalker/jhonyskywalker/blob/master/posts/e-no-comeco-havia-o-inicio.md)
+- [E no comeco havia o Inicio](https://github.com/jhonyskywalker/jhonyskywalker/blob/master/artigos/e-no-comeco-havia-o-inicio.md)
