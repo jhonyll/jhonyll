@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Artigos
-
-- [Meu site pessoal](https://github.com/jhonyskywalker/jhonyskywalker/blob/master/artigos/o-universo-em-que-vivemos/planeta-terra/assuntos-tecnologicos/meu-site-pessoal.md)
-- [E no comeco havia o Inicio](https://github.com/jhonyskywalker/jhonyskywalker/blob/master/artigos/e-no-comeco-havia-o-inicio.md)
