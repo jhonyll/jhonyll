@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Jhonatan
 
-- 🤔 I’m looking for help with knowledge.
+- :hammer: Working as Code Maker
+- :satellite: Living in SP, Brazil
+
+### Links
+
+- :doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatansilva/)
+- :lollipop: [Twitter](https://twitter.com/jhonyskywalker_)
+- :anchor: [Website](https://jhonatansilva.com/)
+
 
 <!--
 **jhonyskywalker/jhonyskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
