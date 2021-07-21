@@ -6,7 +6,6 @@
 ### Links
 
 - :doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatansilva/)
-- :lollipop: [Twitter](https://twitter.com/jhonyskywalker_)
 - :anchor: [Website](https://jhonatansilva.com/)
 
 
