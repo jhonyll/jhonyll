@@ -5,7 +5,7 @@
 
 ### Links
 
-- :doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatansilva/)
+- :doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatanbatista/)
 - :anchor: [Website](https://jhonyl.com/)
 
 
