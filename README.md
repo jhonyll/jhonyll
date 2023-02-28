@@ -1,12 +1,4 @@
-### 😈😈 This is Jhonyl 😈😈
-
-- 🕴 Code Maker
-- 🛸 Earthling.
-
-### 🤡 Social
-
-- :doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatanbatista/)
-- :anchor: [Website](https://jhonyl.com/)
+:doughnut: [LinkedIn](https://www.linkedin.com/in/jhonatanbatista/)
 
 
 <!--
